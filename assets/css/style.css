@@ -57,3 +57,8 @@
 .ml50 {
     margin-left: 50px;
 }
+
+.containerContato{
+    display: flex;
+    justify-content: space-evenly;
+}
